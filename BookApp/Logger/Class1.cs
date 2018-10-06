@@ -11,5 +11,6 @@ namespace Logger
         public string Name { get; set; }
         public int Id { get; set; }
         public string Course { get; set; }
+	public DateTime DOB {get;set;}
     }
 }
